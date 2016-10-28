@@ -1,0 +1,1 @@
+Allows a user to enter the title, size (in columns and rows), total number of words to be found, and each word they want to have in the crossword puzzle. Generates a crossword according to the user input. Words can be found in all directions. The program checks to see if a location is valid for word to be inserted there.
